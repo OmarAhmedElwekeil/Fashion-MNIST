@@ -5,13 +5,6 @@ The dataset consists of 60,000 training images and 10,000 test images, each of s
 
 ---
 
-## 📂 Project Structure
-- `model.py` – contains the model building and training code
-- `requirements.txt` – dependencies for running the project
-- `README.md` – project documentation
-
----
-
 ## 📊 Dataset
 - **Features**: 28x28 pixel grayscale images (784 features when flattened).
 - **Labels (Targets)**: 10 classes (digits **0–9**).
